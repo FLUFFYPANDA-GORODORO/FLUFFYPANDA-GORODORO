@@ -1,9 +1,5 @@
 ## About me 💫
 
-<!--
-**FLUFFYPANDA-GORODORO/FLUFFYPANDA-GORODORO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 👋 Hi, I’m @Gaurav Patil
 
 👀 I’m interested in Software Development and Learning new Problem solving techniques
