@@ -12,3 +12,6 @@
                      Phone: 7028534344
 
 ⚡ Fun fact: The real name for a hashtag is an octothorpe
+
+~Projects : 
+https://movie-app-navy-five.vercel.app/
