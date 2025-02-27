@@ -13,5 +13,5 @@
 
 ⚡ Fun fact: The real name for a hashtag is an octothorpe
 
-~Projects : 
+~Project : 
 https://movie-app-navy-five.vercel.app/
