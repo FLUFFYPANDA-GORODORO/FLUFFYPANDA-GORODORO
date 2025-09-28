@@ -21,3 +21,6 @@ https://movie-app-navy-five.vercel.app/
 
 ~Project :
 https://exo-ape-lilac.vercel.app/
+
+~Project :
+https://quiz-frontend-react-zeta.vercel.app/
