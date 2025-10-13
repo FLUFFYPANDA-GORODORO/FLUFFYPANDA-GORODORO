@@ -14,7 +14,7 @@
 ⚡ Fun fact: The real name for a hashtag is an octothorpe
 
 Portfolio
-https://portfolio-nine-jet-16.vercel.app/
+https://gaurav-patil-gip.vercel.app/
 
 ~Project : 
 https://movie-app-navy-five.vercel.app/
