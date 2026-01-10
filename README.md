@@ -9,7 +9,6 @@
 💞️ I’m looking to collaborate on Projects based on web technologies
 
 📫 How to reach me : email: gauravipatilgip@gmail.com
-                     Phone: 7028534344
 
 ⚡ Fun fact: The real name for a hashtag is an octothorpe
 
